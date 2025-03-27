@@ -11,4 +11,4 @@ Esta página realiza 3 acciones fundamentales:
 2º Posee un botón donde en el mismo dice "cambiar contenido" y justamente lo que hace es cambiar el texto próximo.
 3º Se observa un formulario donde el mismo es para rellenar y luego se debe accionar el botón "enviar" para que los datos se procesen y luego estos mismo se muestren en pantalla.
 Se aclara que los campos del formulario son obligatorios de completar, además, de que los datos brindados deben cumplir con ciertas características.
-Cabe aclarar, que el archivo debe abrirse con un servidor xamps.
+Cabe aclarar, que el archivo debe abrirse con un servidor Xampps en la carpeta htdocs.
